@@ -2,7 +2,7 @@
 
 ---
 
-An Embedded Systems Engineer & 3D Model Artist. Extremely Based in Antalya,TR.
+An Embedded Systems Engineer & 3D Model Artist. Extremely Based in Antalya, TR.
 
 - 🔭 I’m currently working on Large Scale 3D Models
 - 🌱 I’m currently learning Rust
