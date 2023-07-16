@@ -11,6 +11,8 @@ An Embedded Systems Engineer & 3D Model Artist. Extremely Based in Antalya, TR.
 - 😄 Pronouns: He/Him
 - ⚡ Ignore critics, be remarkable!
 
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
