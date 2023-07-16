@@ -6,7 +6,7 @@ An Embedded Systems Engineer & 3D Model Artist. Extremely Based in Antalya, TR.
 
 - 🔭 I’m currently working on Large Scale 3D Models
 - 🌱 I’m currently learning Rust
-- 🤔 In my free time I solve problems on Stack Overflow and write embedded libraries.
+- 🤔 In my free time I answer questions on Stack Overflow and write embedded libraries.
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Ignore critics, be remarkable!
