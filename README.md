@@ -25,8 +25,9 @@ An Embedded Systems Engineer & 3D Model Artist. Extremely Based in Antalya, TR.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="LabView" **alt="LabView" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="LabView" **alt="LabView" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </p>
 
