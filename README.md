@@ -1,6 +1,6 @@
  <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Kenneth</h1>
 
-An Embedded Systems Engineer & 3D Model Artist. Extremely Based in Antalya, TR.
+An Digital Design Engineer & 3D Model Artist. Extremely Based in Antalya, TR.
 
 - 🔭 I’m currently working on Game Ready 3D Models
 - 🌱 I’m currently learning Rust
