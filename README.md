@@ -4,7 +4,7 @@ A Digital Design Engineer & 3D Model Artist. Extremely Based in Istanbul, TR.
 
 - 🔭 I’m currently working on FPGA Designs
 - 🌱 I’m currently learning Rust & VHDL
-- 🤔 In my free time I answer questions on Stack Overflow and create game ready models.
+- 🤔 In my free time I create game ready models.
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Ignore critics, be remarkable!
