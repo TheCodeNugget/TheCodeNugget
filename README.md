@@ -41,7 +41,7 @@ A Digital Design Engineer & 3D Model Artist. Extremely Based in Istanbul, TR.
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/NXP_Semiconductors_logo_2023.svg" title="NXP Semiconductor" **alt="NXP" width="60" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Lattice_Semiconductor_logo.svg" title="Lattice Semiconductor" **alt="Lattice" width="100" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Xilinx_logo.svg" title="AMD Xilinx" **alt="AMD Xilinx" width="100" height="40"/>&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Renesas_Electronics_logo.svg" title="Renesas Electronics" **alt="Renesas" width="100" height="40"/>&nbsp;
+ <img src="https://www.renesas.com/themes/idt8/src/components/header/images/header-sets/pride/header-w.svg?header_set=1&ts=1629138828" title="Renesas Electronics" **alt="Renesas" width="100" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/TexasInstruments-Logo.svg" title="Texas Instruments" **alt="TI" width="100" height="40"/>&nbsp;
 </p>
 
