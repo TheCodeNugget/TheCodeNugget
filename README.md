@@ -3,7 +3,7 @@
 A Digital Design Engineer & 3D Model Artist. Extremely Based in Istanbul, TR.
 
 - 🔭 I’m currently working on RISC-V MCU Architectures
-- 🌱 I’m currently learning Rust & VHDL
+- 🌱 I’m currently learning SystemVerilog UVM
 - 🤔 In my free time I create game ready models and design embedded devices.
 - 😄 Pronouns: He/Him
 - ⚡ Perfect is good, done is better!
