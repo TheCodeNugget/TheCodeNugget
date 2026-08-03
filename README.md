@@ -22,7 +22,7 @@ A Digital Design Engineer & 3D Model Artist. Extremely Based in Istanbul, TR.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" title="Altium Designer" **alt="Altium Designer" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/kicad/314CB0" title="KiCad" **alt="Altium Designer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>&nbsp;
